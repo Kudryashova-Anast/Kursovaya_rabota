@@ -1,0 +1,19 @@
+\begin{theindex}
+
+  \item {check}
+    \subitem {LicenseChecker}, \hyperpage{9}
+  \item {checker\_error}, \hyperpage{7}
+
+  \indexspace
+
+  \item {LicenseChecker}, \hyperpage{8}
+    \subitem {check}, \hyperpage{9}
+    \subitem {LicenseChecker}, \hyperpage{8}
+  \item {LicenseChecker.cpp}, \hyperpage{11}
+  \item {LicenseChecker.h}, \hyperpage{11}
+
+  \indexspace
+
+  \item {main.cpp}, \hyperpage{13}
+
+\end{theindex}
