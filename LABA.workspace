@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="LABA" Database="" Version="10.0.0">
+  <Project Name="LicenseChecker" Path="LicenseChecker/LicenseChecker.project" Active="Yes"/>
+  <Project Name="Server" Path="Server/Server.project" Active="No"/>
+  <Project Name="testLicenseChecker" Path="testLicenseChecker/testLicenseChecker.project" Active="No"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Environment/>
+      <Project Name="NewClient" ConfigName="Debug"/>
+      <Project Name="LicenseChecker" ConfigName="Debug"/>
+      <Project Name="Server" ConfigName="Debug"/>
+      <Project Name="testLicenseChecker" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Environment/>
+      <Project Name="NewClient" ConfigName="Release"/>
+      <Project Name="LicenseChecker" ConfigName="Release"/>
+      <Project Name="Server" ConfigName="Release"/>
+      <Project Name="testLicenseChecker" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>
